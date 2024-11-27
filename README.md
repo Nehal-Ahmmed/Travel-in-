@@ -1,4 +1,4 @@
 # Travel-in-
 This is my first github repository. It is a android app named Travel in.
 <br>
-Author - Nehal Ahmmed
+Author - Nehal Ahmmed Bhuiyan
